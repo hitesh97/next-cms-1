@@ -22,5 +22,13 @@
     "content": "This is it - 3",
     "createdAt": 1626421007665,
     "id": "siqodRfUcwzi1DJOU7LLJL44TbTbH-"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is the comment content",
+    "createdAt": 1626421350576,
+    "id": "OYg14M6wsJB-6cmt0VGcAhn7zFzP62"
   }
 ]
